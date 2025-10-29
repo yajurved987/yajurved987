@@ -11,26 +11,26 @@ My work blends **Python, SQL, and Power BI** to create analytics that scale and 
 - 📊 Design **interactive dashboards** that make complex metrics easy to act on  
 - 🤖 Explore **machine learning pipelines** and experiment frameworks  
 
-### 🛠️ Tech Stack
-
-| Category | Tools |
-|-----------|--------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) |
-| **Libraries** | pandas · numpy · scikit-learn · matplotlib |
-| **Visualization** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black) · Tableau |
-| **Workflow** | Git · APIs · Jupyter · Excel |
+### 🛠️ Tools  
+**Language:** Python, SQL  
+**Database:** PostgreSQL, MySQL, Google BigQuery  
+**Visualization:** Power BI, Tableau  
+**Libraries:** pandas, scikit-learn, matplotlib, numpy  
+**Other:** APIs, Git, Jupyter Notebook
 
 ### 🌱 Currently Exploring
 - Scalable ML pipelines  
 - Experimentation & A/B testing for product analytics  
 - Automated data quality checks and reporting workflows
   
-📝I share my thoughts on Medium, especially about building data-driven careers, learning analytics through projects, and navigating the startup data space. I also occasionally write about Python, Power BI, and portfolio storytelling for data scientists.
+📝 I share my thoughts on [**Medium**](https://medium.com/@yjayavarapu), especially about building data-driven careers, learning analytics through projects, and navigating the startup data space. I also occasionally write about Python, Power BI, and portfolio storytelling for data scientists.
+
 
 ### 🤝 Let’s Connect!
-📫 [LinkedIn](https://www.linkedin.com/in/yajurved-jayavarapu/)  
-🐦 [X]-(https://x.com/yajurvedj426)
-✍️ [Medium]-(https://medium.com/@yjayavarapu)
-✉️ yjayavarapu@gmail.com  
+📫 [LinkedIn](https://www.linkedin.com/in/yajurved-jayavarapu/)
+🐦 [X](https://x.com/yajurvedj426)  
+✍️ [Medium](https://medium.com/@yjayavarapu)  
+✉️ yjayavarapu@gmail.com
+
 
 > *“Data is only as valuable as the decisions it enables.”*
