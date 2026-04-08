@@ -1,27 +1,32 @@
 # 👋 Hi, I’m [Yajurved Jayavarapu]
 
-💡 I’m a **Data Scientist who loves building from scratch** — from cleaning messy datasets to deploying insights that guide real decisions.
+💡 I’m an AI Engineer focused on building end-to-end Generative AI systems — from data and retrieval pipelines to production-grade LLM applications.
 
-🚀 I thrive in **fast-paced startup environments**, turning data chaos into clarity through automation, visualization, and modeling.  
-My work blends **Python, SQL, and Power BI** to create analytics that scale and actually drive business impact.
+🚀 I enjoy turning complex problems into scalable AI solutions, designing RAG pipelines, multi-agent workflows, and low-latency inference systems that deliver real-world impact. My work spans building, optimizing, and deploying AI systems on AWS.
 
 ### 🧠 What I Do
-- 🧩 **Analyze, model, and visualize** data to uncover insights and guide strategy  
-- ⚙️ Build **end-to-end data workflows** using Python and SQL  
-- 📊 Design **interactive dashboards** that make complex metrics easy to act on  
-- 🤖 Explore **machine learning pipelines** and experiment frameworks  
+- 🧩 Design and build LLM systems (RAG, agents, retrieval pipelines)  
+- ⚙️ Develop end-to-end ML and data pipelines for production AI systems  
+- 🚀 Deploy scalable AI services with low-latency inference and monitoring  
+- 🔍 Optimize retrieval, model performance, and system reliability  
 
-### 🛠️ Tools  
-**Language:** Python, SQL  
-**Database:** PostgreSQL, MySQL, Google BigQuery  
-**Visualization:** Power BI, Tableau  
-**Libraries:** pandas, scikit-learn, matplotlib, numpy  
-**Other:** APIs, Git, Jupyter Notebook
 
-### 🌱 Currently Exploring
-- Scalable ML pipelines  
-- Experimentation & A/B testing for product analytics  
-- Automated data quality checks and reporting workflows
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL  
+**Generative AI:** OpenAI, AWS Bedrock, LangChain, LangGraph  
+**LLM Systems:** RAG, Embeddings, Vector Search, FAISS, Pinecone  
+**Backend:** FastAPI, REST APIs, Async Processing, Redis  
+**MLOps & Infrastructure:** Docker, Kubernetes, Airflow, MLflow  
+**Cloud:** AWS (Bedrock, Lambda, SQS, Step Functions, SageMaker)  
+**Data:** Apache Spark, ETL Pipelines  
+
+## 🌱 Currently Exploring
+
+- Advanced multi-agent systems and orchestration  
+- LLM evaluation, guardrails, and reliability  
+- Scalable GenAI architectures and cost optimization  
+- Low-latency inference and system design for production AI  
   
 📝 I share my thoughts on [**Medium**](https://medium.com/@yjayavarapu), especially about building data-driven careers, learning analytics through projects, and navigating the startup data space. I also occasionally write about Python, Power BI, and portfolio storytelling for data scientists.
 
@@ -33,4 +38,4 @@ My work blends **Python, SQL, and Power BI** to create analytics that scale and 
 ✉️ yjayavarapu@gmail.com
 
 
-> *“Data is only as valuable as the decisions it enables.”*
+> *“AI may automate tasks, but it still depends on humans to make it work.”*
