@@ -8,9 +8,12 @@
 - 🧩 Design and build LLM systems (RAG, agents, retrieval pipelines)  
 - ⚙️ Develop end-to-end ML and data pipelines for production AI systems  
 - 🚀 Deploy scalable AI services with low-latency inference and monitoring  
-- 🔍 Optimize retrieval, model performance, and system reliability  
+- 🔍 Optimize retrieval, model performance, and system reliability
 
-
+## 🏆 Certifications
+  [AWS Certified Generative AI – Professional (2026)](https://www.credly.com/badges/0fa9123a-a6a1-45df-96a4-95ea1dfea587/public_url)
+  
+  
 ## 🛠️ Tech Stack
 
 **Languages:** Python, SQL  
