@@ -1,44 +1,48 @@
-# 👋 Hi, I’m [Yajurved Jayavarapu]
+# 👋 Hi, I'm Yajurved Jayavarapu
 
-💡 I’m an AI Engineer focused on building end-to-end Generative AI systems — from data and retrieval pipelines to production-grade LLM applications.
+💡 I'm a **Backend Software Engineer** passionate about building scalable, high-performance distributed systems using **Java, Spring Boot, AWS, and Kubernetes**.
 
-🚀 I enjoy turning complex problems into scalable AI solutions, designing RAG pipelines, multi-agent workflows, and low-latency inference systems that deliver real-world impact. My work spans building, optimizing, and deploying AI systems on AWS.
+🚀 I enjoy designing resilient microservices, optimizing databases, building RESTful APIs, and solving performance challenges in production systems. I focus on writing clean, maintainable code that powers reliable backend platforms serving real-world applications.
 
-### 🧠 What I Do
-- 🧩 Design and build LLM systems (RAG, agents, retrieval pipelines)  
-- ⚙️ Develop end-to-end ML and data pipelines for production AI systems  
-- 🚀 Deploy scalable AI services with low-latency inference and monitoring  
-- 🔍 Optimize retrieval, model performance, and system reliability
+## 🧠 What I Do
 
-## 🏆 Certifications
-  [AWS Certified Generative AI – Professional (2026)](https://www.credly.com/badges/0fa9123a-a6a1-45df-96a4-95ea1dfea587/public_url)
-  
-  
+* ☕ Build scalable backend applications using **Java, Spring Boot, and Microservices**
+* 🌐 Design and develop RESTful APIs and distributed systems
+* ⚡ Optimize application performance, database queries, and caching strategies
+* ☁️ Deploy and operate cloud-native applications using **AWS, Docker, and Kubernetes**
+* 🔍 Troubleshoot production issues, improve observability, and enhance system reliability
+* 🤝 Collaborate with cross-functional teams using Agile and CI/CD best practices
+
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL  
-**Generative AI:** OpenAI, AWS Bedrock, LangChain, LangGraph  
-**LLM Systems:** RAG, Embeddings, Vector Search, FAISS, Pinecone  
-**Backend:** FastAPI, REST APIs, Async Processing, Redis  
-**MLOps & Infrastructure:** Docker, Kubernetes, Airflow, MLflow  
-**Cloud:** AWS (Bedrock, Lambda, SQS, Step Functions, SageMaker)  
-**Data:** Apache Spark, ETL Pipelines  
+**Languages:** Java, SQL, Python
+
+**Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, Microservices
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Amazon Aurora, Redis
+
+**Cloud & DevOps:** AWS (EC2, ECS, EKS, Lambda, RDS, S3, SQS, IAM), Docker, Kubernetes, Helm, Jenkins, GitLab CI/CD
+
+**Messaging & Monitoring:** Apache Kafka, Spring Boot Actuator, Prometheus, Grafana
+
+**Testing:** JUnit 5, Mockito, TestContainers
+
+**Tools:** Git, Maven, Gradle, IntelliJ IDEA, Postman
 
 ## 🌱 Currently Exploring
 
-- Advanced multi-agent systems and orchestration  
-- LLM evaluation, guardrails, and reliability  
-- Scalable GenAI architectures and cost optimization  
-- Low-latency inference and system design for production AI  
-  
-📝 I share my thoughts on [**Medium**](https://medium.com/@yjayavarapu), especially about building data-driven careers, learning analytics through projects, and navigating the startup data space. I also occasionally write about Python, Power BI, and portfolio storytelling for data scientists.
+* Event-driven architecture with Apache Kafka
+* Distributed systems and system design
+* High-performance Java applications
+* Cloud-native backend engineering on AWS
+* Kubernetes, observability, and production reliability
+
+📝 I enjoy sharing what I learn about **Java backend development, Spring Boot, microservices, cloud architecture, system design, and software engineering best practices** through technical articles and personal projects.
+
 
 
 ### 🤝 Let’s Connect!
-📫 [LinkedIn](https://www.linkedin.com/in/yajurved-jayavarapu/)
-🐦 [X](https://x.com/yajurvedj426)  
-✍️ [Medium](https://medium.com/@yjayavarapu)  
-✉️ yjayavarapu@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/yajurved-jayavarapu/)  
+✉️ yajurved.jayavarapu2001@gmail.com
 
 
-> *“AI may automate tasks, but it still depends on humans to make it work.”*
